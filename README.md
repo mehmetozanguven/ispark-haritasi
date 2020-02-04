@@ -1,24 +1,5 @@
-# ispark_map
+# İspark Haritasi
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- IBB açık veri portalından yararlanarak hazırladığım basit bir projedir.
+- Amacım seçilen illere göre İSPARK'ları sıralamak ve bunları haritada göstermek
+- Siteye https://ispark-haritasi.onrender.com/ adresinden ulaşabilirsiniz.
